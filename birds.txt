@@ -1,0 +1,30 @@
+# Birds observed on Calvert Ct, in display order.
+# Format:  Common Name | scientific-stem
+# The scientific-stem is the filename (without .png) in illustrations/.
+# Add a new line to include a bird in the collage, then run:  python3 build_collage.py
+# See AGENTS.md for the full "add a bird" procedure.
+
+House Finch | haemorhous-mexicanus
+American Crow | corvus-brachyrhynchos
+California Scrub-Jay | aphelocoma-californica
+California Towhee | melozone-crissalis
+Chestnut-backed Chickadee | poecile-rufescens
+Oak Titmouse | baeolophus-inornatus
+Steller's Jay | cyanocitta-stelleri
+Wild Turkey | meleagris-gallopavo
+Dark-eyed Junco | junco-hyemalis
+Red-tailed Hawk | buteo-jamaicensis
+Anna's Hummingbird | calypte-anna
+Yellow-rumped Warbler | setophaga-coronata
+Red-breasted Nuthatch | sitta-canadensis
+Nuttall's Woodpecker | dryobates-nuttallii
+Blue-gray Gnatcatcher | polioptila-caerulea
+Mourning Dove | zenaida-macroura
+Band-tailed Pigeon | patagioenas-fasciata
+Lesser Goldfinch | spinus-psaltria
+American Robin | turdus-migratorius
+Turkey Vulture | cathartes-aura
+Great Horned Owl | bubo-virginianus
+Cooper's Hawk | accipiter-cooperii
+Canada Goose | branta-canadensis
+Red-shouldered Hawk | buteo-lineatus

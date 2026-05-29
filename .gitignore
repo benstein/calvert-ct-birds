@@ -1,0 +1,9 @@
+# Scratch tiles produced during a build
+/tmp/calvert-birdtiles/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
