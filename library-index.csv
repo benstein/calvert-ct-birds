@@ -1,0 +1,250 @@
+stem,common,scientific,family,ca_status,confidence,note
+acanthis-flammea,Redpoll,Acanthis flammea,finches (Fringillidae),rare/irregular winter visitor,high,"CORRECTED common name. The 2024 Clements/eBird/AOS update lumped Common, Hoary, and Lesser Redpoll into one species whose accepted English name is simply 'Redpoll' (Acanthis flammea), with the former species now subspecies groups: Redpoll (Common), Redpoll (Hoary), Redpoll (Lesser). The entry's own note describes the lump but it had retained the outdated name 'Common Redpoll', so the common name was wrong."
+accipiter-cooperii,Cooper's Hawk,Accipiter cooperii,"hawks, eagles, and kites (Accipitridae)",common resident,high,"Verified correct. (Note: some authorities place this species in Astur as Astur cooperii following the Accipiter generic revision, but the provided scientific name and the English name 'Cooper's Hawk' are accepted.)"
+accipiter-gentilis,Eurasian Goshawk,Accipiter gentilis,"hawks, eagles, and kites (Accipitridae)",rare/uncommon resident in montane forests,high,"Common name verified correct. The 2023 AOS (63rd/64th supplement) split Northern Goshawk into American Goshawk (Astur atricapillus, the New World bird) and Eurasian Goshawk (gentilis). California birds are American Goshawk; true gentilis is not expected in CA except as a vagrant, so 'uncommon resident in montane forests' actually describes the American Goshawk, not this taxon. Also note the genus was moved from Accipiter to Astur (Astur gentilis) in current taxonomy, though the English name is unchanged."
+accipiter-striatus,Sharp-shinned Hawk,Accipiter striatus,"hawks, eagles, and kites (Accipitridae)",common winter visitor,high,Verified correct.
+actitis-macularius,Spotted Sandpiper,Actitis macularius,sandpipers (Scolopacidae),common migrant and winter visitor; local breeder,high,Verified correct.
+aechmophorus-occidentalis,Western Grebe,Aechmophorus occidentalis,grebes (Podicipedidae),common resident on lakes and coastal waters,high,Verified correct.
+aegolius-acadicus,Northern Saw-whet Owl,Aegolius acadicus,owls (Strigidae),uncommon resident in forested areas,high,Verified correct.
+aeronautes-saxatalis,White-throated Swift,Aeronautes saxatalis,swifts (Apodidae),common breeder and resident around cliffs,high,Verified correct.
+agelaius-phoeniceus,Red-winged Blackbird,Agelaius phoeniceus,New World blackbirds (Icteridae),common resident,high,Verified correct.
+aix-sponsa,Wood Duck,Aix sponsa,"ducks, geese, and waterfowl (Anatidae)",uncommon to common resident on wooded ponds,high,Verified correct.
+ammodramus-savannarum,Grasshopper Sparrow,Ammodramus savannarum,New World sparrows (Passerellidae),"uncommon, local summer breeder in grasslands",high,Verified correct. Grasshopper Sparrow remains in Ammodramus after the Ammodramus/Ammospiza generic split (the Ammospiza marsh sparrows were moved out; savannarum stayed).
+amphispiza-bilineata,Black-throated Sparrow,Amphispiza bilineata,New World sparrows (Passerellidae),"locally common resident in desert scrub (e.g., Mojave/Sonoran)",high,Verified correct.
+anas-crecca,Green-winged Teal,Anas crecca,"ducks, geese, and waterfowl (Anatidae)",common winter visitor,high,Verified correct. Eurasian 'Common Teal' (crecca crecca) is treated as a subspecies group within Anas crecca by AOS/Clements; the species English name is Green-winged Teal.
+anas-platyrhynchos,Mallard,Anas platyrhynchos,"ducks, geese, and waterfowl (Anatidae)",common resident,high,Verified correct.
+anser-albifrons,Greater White-fronted Goose,Anser albifrons,"ducks, geese, and waterfowl (Anatidae)",common winter visitor (esp. Central Valley),high,Verified correct.
+anthus-rubescens,American Pipit,Anthus rubescens,wagtails and pipits (Motacillidae),common winter visitor in open fields,high,Verified correct.
+aphelocoma-californica,California Scrub-Jay,Aphelocoma californica,"crows, jays, and magpies (Corvidae)",common resident,high,Split from Western Scrub-Jay in 2016; the coastal/western form. Correct per Clements/eBird 2024.
+aphelocoma-woodhouseii,Woodhouse's Scrub-Jay,Aphelocoma woodhouseii,"crows, jays, and magpies (Corvidae)",uncommon resident (interior/eastern CA),high,"Note: standard binomial spelling is Aphelocoma woodhouseii with double-i, as given. Common name correct. Interior counterpart split from Western Scrub-Jay in 2016."
+aquila-chrysaetos,Golden Eagle,Aquila chrysaetos,"hawks, eagles, and kites (Accipitridae)",uncommon resident,high,Correct.
+archilochus-alexandri,Black-chinned Hummingbird,Archilochus alexandri,hummingbirds (Trochilidae),common summer breeder,high,Correct.
+ardea-alba,Great Egret,Ardea alba,"herons, egrets, and bitterns (Ardeidae)",common resident,high,Correct.
+ardea-herodias,Great Blue Heron,Ardea herodias,"herons, egrets, and bitterns (Ardeidae)",common resident,high,Correct.
+artemisiospiza-belli,Bell's Sparrow,Artemisiospiza belli,New World sparrows (Passerellidae),uncommon resident (chaparral/scrub),high,"Split from Sage Sparrow in 2013; A. belli is Bell's Sparrow, A. nevadensis is Sagebrush Sparrow. Correct."
+asio-flammeus,Short-eared Owl,Asio flammeus,owls (Strigidae),uncommon winter visitor,high,Correct.
+asio-otus,Long-eared Owl,Asio otus,owls (Strigidae),uncommon resident/winter visitor,high,Correct.
+athene-cunicularia,Burrowing Owl,Athene cunicularia,owls (Strigidae),"uncommon resident (local, declining)",high,Correct.
+aythya-affinis,Lesser Scaup,Aythya affinis,"ducks, geese, and waterfowl (Anatidae)",common winter visitor,high,Correct.
+aythya-americana,Redhead,Aythya americana,"ducks, geese, and waterfowl (Anatidae)",uncommon winter visitor; local breeder,high,Correct.
+aythya-collaris,Ring-necked Duck,Aythya collaris,"ducks, geese, and waterfowl (Anatidae)",common winter visitor,high,Correct.
+aythya-valisineria,Canvasback,Aythya valisineria,"ducks, geese, and waterfowl (Anatidae)",common winter visitor,high,Correct.
+baeolophus-inornatus,Oak Titmouse,Baeolophus inornatus,"tits, chickadees, and titmice (Paridae)",common resident,high,Split from Plain Titmouse in 1996; interior counterpart is Juniper Titmouse (B. ridgwayi). Correct.
+bombycilla-cedrorum,Cedar Waxwing,Bombycilla cedrorum,waxwings (Bombycillidae),common winter visitor,high,Correct.
+bombycilla-garrulus,Bohemian Waxwing,Bombycilla garrulus,waxwings (Bombycillidae),rare/irruptive winter visitor,high,Verified: standard eBird/Clements 2024 name. Correct.
+branta-canadensis,Canada Goose,Branta canadensis,"ducks, geese, and waterfowl (Anatidae)",common resident and winter visitor,high,"Verified. Not to be confused with the smaller Cackling Goose (Branta hutchinsii), which is a separate species. Correct as given."
+bubo-virginianus,Great Horned Owl,Bubo virginianus,owls (Strigidae),common resident,high,Verified. Correct.
+bubulcus-ibis,Western Cattle-Egret,Ardea ibis,"herons, egrets, and bitterns (Ardeidae)",locally common resident/visitor,high,"CORRECTED. The 2023-2024 AOS / eBird-Clements v2024 update split Cattle Egret into Western Cattle-Egret (Ardea ibis) and Eastern Cattle-Egret (Ardea coromanda), and transferred the genus from Bubulcus into Ardea. North American birds are Western Cattle-Egret (Ardea ibis). The original entry's name (Cattle Egret), binomial (Bubulcus ibis), and explanatory note were all outdated. Stem 'bubulcus-ibis' kept exactly as given per instructions, though it now references the retired genus."
+bucephala-albeola,Bufflehead,Bucephala albeola,"ducks, geese, and waterfowl (Anatidae)",common winter visitor,high,Verified. Correct.
+bucephala-clangula,Common Goldeneye,Bucephala clangula,"ducks, geese, and waterfowl (Anatidae)",common winter visitor,high,Verified. Distinct from Barrow's Goldeneye (B. islandica). Correct.
+buteo-jamaicensis,Red-tailed Hawk,Buteo jamaicensis,"hawks, eagles, and kites (Accipitridae)",common resident,high,Verified. Correct.
+buteo-lagopus,Rough-legged Hawk,Buteo lagopus,"hawks, eagles, and kites (Accipitridae)",uncommon winter visitor,high,Verified. Correct.
+buteo-lineatus,Red-shouldered Hawk,Buteo lineatus,"hawks, eagles, and kites (Accipitridae)",common resident,high,Verified. Correct.
+buteo-regalis,Ferruginous Hawk,Buteo regalis,"hawks, eagles, and kites (Accipitridae)",uncommon winter visitor,high,Verified. Correct.
+buteo-swainsoni,Swainson's Hawk,Buteo swainsoni,"hawks, eagles, and kites (Accipitridae)",summer breeder/migrant,high,Verified. Correct.
+butorides-virescens,Green Heron,Butorides virescens,"herons, egrets, and bitterns (Ardeidae)",common resident/summer breeder,high,Verified. Butorides virescens is the New World Green Heron; the Old World Striated Heron (B. striata) is a separate species under eBird/Clements. Correct.
+calamospiza-melanocorys,Lark Bunting,Calamospiza melanocorys,New World sparrows (Passerellidae),rare/vagrant,high,"Verified. Despite the name 'bunting,' Calamospiza (monotypic) sits in Passerellidae (New World sparrows) under AOS/Clements, moved out of the old Emberizidae. Family as given is correct (it is NOT in Calcariidae)."
+calidris-alba,Sanderling,Calidris alba,sandpipers and allies (Scolopacidae),common coastal migrant/winter visitor,high,Verified. Correct.
+calidris-alpina,Dunlin,Calidris alpina,sandpipers and allies (Scolopacidae),common winter visitor (coastal/wetlands),high,Verified. Correct.
+callipepla-californica,California Quail,Callipepla californica,New World quail (Odontophoridae),common resident,high,Verified. Correct.
+calothorax-lucifer,Lucifer Hummingbird,Calothorax lucifer,hummingbirds (Trochilidae),not expected in California,high,Specialty of the Big Bend region of Texas and Mexico; not a California bird. eBird/Clements English name is Lucifer Hummingbird (also sometimes called Lucifer Sheartail).
+calypte-anna,Anna's Hummingbird,Calypte anna,hummingbirds (Trochilidae),common resident,high,Verified correct.
+calypte-costae,Costa's Hummingbird,Calypte costae,hummingbirds (Trochilidae),common resident/breeder in arid southern California,high,Verified correct.
+cardellina-pusilla,Wilson's Warbler,Cardellina pusilla,New World warblers (Parulidae),common migrant and summer breeder,high,Formerly Wilsonia pusilla; now placed in Cardellina. Verified correct.
+cardellina-rubrifrons,Red-faced Warbler,Cardellina rubrifrons,New World warblers (Parulidae),rare/vagrant,high,Breeds in Arizona/New Mexico mountains; rare vagrant to California. Verified correct.
+cathartes-aura,Turkey Vulture,Cathartes aura,New World vultures (Cathartidae),common resident and migrant,high,Verified correct.
+catharus-guttatus,Hermit Thrush,Catharus guttatus,thrushes (Turdidae),common winter visitor,high,Verified correct.
+catharus-ustulatus,Swainson's Thrush,Catharus ustulatus,thrushes (Turdidae),common migrant and summer breeder,high,Verified correct.
+catherpes-mexicanus,Canyon Wren,Catherpes mexicanus,wrens (Troglodytidae),uncommon resident in rocky/canyon habitat,high,Verified correct. Monotypic genus Catherpes.
+certhia-americana,Brown Creeper,Certhia americana,treecreepers (Certhiidae),"uncommon resident in conifer forest, winter visitor at lower elevations",high,Verified correct.
+chaetura-vauxi,Vaux's Swift,Chaetura vauxi,swifts (Apodidae),migrant and local summer breeder,high,Verified correct.
+charadrius-vociferus,Killdeer,Charadrius vociferus,plovers (Charadriidae),common resident,high,Verified correct.
+chondestes-grammacus,Lark Sparrow,Chondestes grammacus,New World sparrows (Passerellidae),common resident/breeder in open country,high,Verified correct. Monotypic genus Chondestes.
+chordeiles-minor,Common Nighthawk,Chordeiles minor,nightjars (Caprimulgidae),"uncommon summer breeder, mainly in the north and mountains",high,"Verified correct. Note Lesser Nighthawk (C. acutipennis) is the more widespread breeder in much of southern CA, but C. minor is correctly Common Nighthawk."
+cinclus-mexicanus,American Dipper,Cinclus mexicanus,dippers (Cinclidae),uncommon resident along fast-flowing mountain streams,high,Verified correct.
+circus-hudsonius,Northern Harrier,Circus hudsonius,"hawks, eagles and kites (Accipitridae)",common winter visitor and local breeder,high,Split from Eurasian Hen Harrier (Circus cyaneus); New World birds are now Circus hudsonius. Verified correct.
+cistothorus-palustris,Marsh Wren,Cistothorus palustris,wrens (Troglodytidae),common resident in marshes,high,Verified against eBird/Clements 2024: name unchanged. No species-level split for C. palustris in the 2024 update (subspecies groups such as griseus and dissaeptus are tracked at the ISSF level only).
+coccothraustes-vespertinus,Evening Grosbeak,Coccothraustes vespertinus,finches (Fringillidae),"uncommon/irruptive, mainly montane; rare in lowland backyards",high,"Verified. Now often placed in genus Hesperiphona, but Coccothraustes vespertinus remains widely used; common name Evening Grosbeak is correct."
+colaptes-auratus,Northern Flicker,Colaptes auratus,woodpeckers (Picidae),common resident and winter visitor,high,Verified. (Yellow-shafted and Red-shafted are subspecies groups; species name is Northern Flicker.)
+columba-livia,Rock Pigeon,Columba livia,pigeons and doves (Columbidae),common resident (introduced),high,Verified. 'Rock Pigeon' is the current AOS/eBird name (formerly 'Rock Dove').
+columbina-passerina,Common Ground Dove,Columbina passerina,pigeons and doves (Columbidae),uncommon resident in far southern CA; rare elsewhere,high,Verified. eBird/Clements uses 'Common Ground Dove' (the hyphen in 'Ground-Dove' was dropped by AOS).
+contopus-sordidulus,Western Wood-Pewee,Contopus sordidulus,tyrant flycatchers (Tyrannidae),common summer breeder and migrant,high,Verified. 'Western Wood-Pewee' (hyphen retained in AOS/eBird).
+coragyps-atratus,Black Vulture,Coragyps atratus,New World vultures (Cathartidae),rare/vagrant in California,high,Verified.
+corvus-brachyrhynchos,American Crow,Corvus brachyrhynchos,crows and jays (Corvidae),common resident,high,Verified.
+corvus-corax,Common Raven,Corvus corax,crows and jays (Corvidae),common resident,high,Verified.
+cyanocitta-stelleri,Steller's Jay,Cyanocitta stelleri,crows and jays (Corvidae),common resident in conifer/oak woodland,high,"Verified. Note: a 2024 AOS proposal split coastal Pacific birds as 'Steller's Jay' vs interior 'Steller's Jay'-complex was discussed, but C. stelleri remains 'Steller's Jay' in eBird/Clements 2024."
+cygnus-buccinator,Trumpeter Swan,Cygnus buccinator,"ducks, geese, and waterfowl (Anatidae)",rare winter visitor,high,Verified.
+cypseloides-niger,Black Swift,Cypseloides niger,swifts (Apodidae),rare/local summer breeder; uncommon migrant,high,Verified.
+dryobates-nuttallii,Nuttall's Woodpecker,Dryobates nuttallii,woodpeckers (Picidae),common resident (California near-endemic),high,Verified. Moved from Picoides to Dryobates (eBird/Clements). Some authorities use Leuconotopicus; common name unchanged.
+dryobates-pubescens,Downy Woodpecker,Dryobates pubescens,woodpeckers (Picidae),common resident,high,Verified. Moved from Picoides to Dryobates (eBird/Clements).
+dryobates-villosus,Hairy Woodpecker,Dryobates villosus,woodpeckers (Picidae),fairly common resident,high,"Common name verified as 'Hairy Woodpecker'. CORRECTED NOTE: placed in Dryobates by eBird/Clements (some authorities use Leuconotopicus). The original note's claim that 'recent splits place western birds in Dryobates' is incorrect and was removed — there is no such split, and the entire species (not a western subset) is treated under Dryobates."
+dryocopus-pileatus,Pileated Woodpecker,Dryocopus pileatus,woodpeckers (Picidae),uncommon resident in northern/montane forests; not expected in most backyards,high,Verified.
+egretta-caerulea,Little Blue Heron,Egretta caerulea,"herons, egrets, and bitterns (Ardeidae)",rare/vagrant (very local; mostly Salton Sea and coastal southern California),high,Verified: Egretta caerulea = Little Blue Heron (Clements 2024 / AOS). Correct.
+egretta-thula,Snowy Egret,Egretta thula,"herons, egrets, and bitterns (Ardeidae)",common resident,high,Verified correct.
+elanus-leucurus,White-tailed Kite,Elanus leucurus,"hawks, kites, and eagles (Accipitridae)",common resident,high,Verified correct.
+empidonax-difficilis,Western Flycatcher,Empidonax difficilis,tyrant flycatchers (Tyrannidae),common summer breeder,high,"CORRECTED common name from 'Pacific-slope Flycatcher' to 'Western Flycatcher'. The supplied note was factually wrong: Pacific-slope and Cordilleran were RE-LUMPED into Western Flycatcher in the 2023 eBird/Clements taxonomy update (AOS 2023, not 2025), and Clements 2024 and current eBird list E. difficilis as 'Western Flycatcher' (ebird.org/species/wesfly). 'Pacific-slope' now survives only as the subspecies group Western Flycatcher (Pacific-slope), E. difficilis [difficilis Group]. CA breeders (difficilis/insulicola) fall under that Pacific-slope group, but the species-level common name is Western Flycatcher."
+empidonax-hammondii,Hammond's Flycatcher,Empidonax hammondii,tyrant flycatchers (Tyrannidae),uncommon migrant (breeds in high mountains),high,Verified correct.
+empidonax-oberholseri,Dusky Flycatcher,Empidonax oberholseri,tyrant flycatchers (Tyrannidae),summer breeder in mountains; migrant elsewhere,high,Verified correct.
+empidonax-traillii,Willow Flycatcher,Empidonax traillii,tyrant flycatchers (Tyrannidae),uncommon migrant; rare/local summer breeder (state endangered),high,Verified correct.
+empidonax-wrightii,Gray Flycatcher,Empidonax wrightii,tyrant flycatchers (Tyrannidae),summer breeder in eastern CA; migrant/winter visitor in south,high,"Verified correct. Note the classic Empidonax naming trap: E. wrightii is Gray Flycatcher, while 'Wright's' is the obsolete name for Dusky (E. oberholseri). Mapping here is right."
+eremophila-alpestris,Horned Lark,Eremophila alpestris,larks (Alaudidae),common resident,high,Verified correct.
+euphagus-cyanocephalus,Brewer's Blackbird,Euphagus cyanocephalus,New World blackbirds (Icteridae),common resident,high,Verified correct.
+falco-columbarius,Merlin,Falco columbarius,falcons (Falconidae),uncommon winter visitor,high,Verified correct.
+falco-mexicanus,Prairie Falcon,Falco mexicanus,falcons (Falconidae),uncommon resident,high,Verified correct.
+falco-peregrinus,Peregrine Falcon,Falco peregrinus,falcons (Falconidae),uncommon resident,high,Verified correct.
+falco-sparverius,American Kestrel,Falco sparverius,falcons (Falconidae),common resident,high,Verified correct.
+gavia-immer,Common Loon,Gavia immer,loons (Gaviidae),common winter visitor (coastal/large lakes); not a backyard bird,high,Verified correct.
+geothlypis-tolmiei,MacGillivray's Warbler,Geothlypis tolmiei,New World warblers (Parulidae),summer breeder in mountains; uncommon migrant,high,Verified correct. Genus move from Oporornis to Geothlypis is accurate.
+geothlypis-trichas,Common Yellowthroat,Geothlypis trichas,New World warblers (Parulidae),common resident in marshes/wetlands,high,Verified against eBird/Clements 2024. Correct.
+glaucidium-gnoma,Northern Pygmy-Owl,Glaucidium gnoma,owls (Strigidae),uncommon resident in montane/foothill forests,high,"Correct under AOS/Clements 2024. IOC splits this into Mountain Pygmy-Owl (G. gnoma) and Northern Pygmy-Owl (G. californicum), but AOS/Clements 2024 retains the broad concept with the English name Northern Pygmy-Owl for G. gnoma."
+gymnogyps-californianus,California Condor,Gymnogyps californianus,New World vultures (Cathartidae),"rare; reintroduced resident, very unlikely in a backyard",high,Verified. Correct.
+haemorhous-mexicanus,House Finch,Haemorhous mexicanus,finches (Fringillidae),abundant resident,high,Verified. Genus Haemorhous (moved from Carpodacus). Correct.
+haemorhous-purpureus,Purple Finch,Haemorhous purpureus,finches (Fringillidae),fairly common resident/winter visitor in wooded areas,high,Verified. Correct.
+haliaeetus-leucocephalus,Bald Eagle,Haliaeetus leucocephalus,"hawks, eagles and kites (Accipitridae)",uncommon resident/winter visitor near water,high,Verified. Correct.
+himantopus-mexicanus,Black-necked Stilt,Himantopus mexicanus,stilts and avocets (Recurvirostridae),common resident/breeder in wetlands,high,Verified. Correct.
+hirundo-rustica,Barn Swallow,Hirundo rustica,swallows (Hirundinidae),common summer breeder,high,Verified. Correct.
+hydroprogne-caspia,Caspian Tern,Hydroprogne caspia,"gulls, terns and skimmers (Laridae)",common breeder/migrant near water,high,Verified. Correct.
+icteria-virens,Yellow-breasted Chat,Icteria virens,Yellow-breasted Chat (Icteriidae),uncommon summer breeder in riparian thickets,high,"Common name correct. Family Icteriidae correct (monotypic, split from Parulidae). Capitalized 'Yellow-breasted Chat' in the family label for consistency; original lowercase phrasing was non-standard but factually fine."
+icterus-bullockii,Bullock's Oriole,Icterus bullockii,New World blackbirds (Icteridae),common summer breeder,high,Verified. Correct.
+icterus-cucullatus,Hooded Oriole,Icterus cucullatus,New World blackbirds (Icteridae),"common summer breeder, esp. near palms",high,Verified. Correct.
+icterus-galbula,Baltimore Oriole,Icterus galbula,New World blackbirds (Icteridae),rare/vagrant (mostly fall/winter),high,Verified. Correct.
+icterus-parisorum,Scott's Oriole,Icterus parisorum,New World blackbirds (Icteridae),uncommon summer breeder in arid/desert scrub,high,Verified. Correct.
+ixoreus-naevius,Varied Thrush,Ixoreus naevius,thrushes (Turdidae),common winter visitor in shaded woods,high,Verified. Correct.
+junco-hyemalis,Dark-eyed Junco,Junco hyemalis,New World sparrows (Passerellidae),common resident/winter visitor ('Oregon' form),high,Verified against eBird/Clements 2024. Dark-eyed Junco is the species name; 'Oregon' is the ISSF group typical in CA. Correct.
+lanius-ludovicianus,Loggerhead Shrike,Lanius ludovicianus,shrikes (Laniidae),uncommon to fairly common resident,high,Verified correct.
+larus-californicus,California Gull,Larus californicus,"gulls, terns, and skimmers (Laridae)",common winter visitor; inland breeder at saline lakes,high,Verified correct; correctly retained in Larus (not moved to Leucophaeus).
+larus-delawarensis,Ring-billed Gull,Larus delawarensis,"gulls, terns, and skimmers (Laridae)",common winter visitor,high,Verified correct; correctly retained in Larus.
+larus-glaucescens,Glaucous-winged Gull,Larus glaucescens,"gulls, terns, and skimmers (Laridae)",common winter visitor along the coast,high,Verified correct; correctly retained in Larus.
+larus-heermanni,Heermann's Gull,Larus heermanni,"gulls, terns, and skimmers (Laridae)",common post-breeding visitor along the coast,high,"Verified correct. Note: Heermann's Gull is retained in Larus, not moved to Leucophaeus (a common point of confusion)."
+larus-occidentalis,Western Gull,Larus occidentalis,"gulls, terns, and skimmers (Laridae)",common coastal resident,high,Verified correct; correctly retained in Larus.
+leiothlypis-celata,Orange-crowned Warbler,Leiothlypis celata,New World warblers (Parulidae),"common migrant, winter visitor, and breeder",high,Verified correct. Genus moved from Oreothlypis/Vermivora to Leiothlypis (2019).
+leiothlypis-lucidae,Lucy's Warbler,Leiothlypis luciae,New World warblers (Parulidae),local summer breeder along the lower Colorado River; rare elsewhere,high,"Verified correct. Stem 'lucidae' is a misspelling of the epithet 'luciae' (Lucy's Warbler, named for Lucy Hunter Baird); stem kept as given per rules, scientific/common resolved to the intended species. Genus moved from Oreothlypis/Vermivora to Leiothlypis (2019)."
+leucophaeus-atricilla,Laughing Gull,Leucophaeus atricilla,"gulls, terns, and skimmers (Laridae)",rare/vagrant (mostly post-breeding at the Salton Sea),high,Verified correct; correctly placed in Leucophaeus.
+leucophaeus-pipixcan,Franklin's Gull,Leucophaeus pipixcan,"gulls, terns, and skimmers (Laridae)",rare migrant/vagrant,high,Verified correct; correctly placed in Leucophaeus.
+leucosticte-tephrocotis,Gray-crowned Rosy-Finch,Leucosticte tephrocotis,finches (Fringillidae),uncommon high-alpine breeder; winters at high elevations,high,Verified correct. eBird/Clements uses hyphenated 'Rosy-Finch'.
+limosa-fedoa,Marbled Godwit,Limosa fedoa,sandpipers and allies (Scolopacidae),common winter visitor along the coast,high,Verified correct.
+lophodytes-cucullatus,Hooded Merganser,Lophodytes cucullatus,"ducks, geese, and waterfowl (Anatidae)",uncommon winter visitor; local breeder,high,Verified correct; monotypic genus Lophodytes.
+loxia-curvirostra,Red Crossbill,Loxia curvirostra,finches (Fringillidae),irregular/irruptive resident in conifer forests,high,Verified correct.
+mareca-americana,American Wigeon,Mareca americana,"ducks, geese, and waterfowl (Anatidae)",common winter visitor,high,Verified correct. Genus moved from Anas to Mareca.
+mareca-strepera,Gadwall,Mareca strepera,"ducks, geese, and waterfowl (Anatidae)",common resident and winter visitor,high,Verified correct. Genus moved from Anas to Mareca.
+megaceryle-alcyon,Belted Kingfisher,Megaceryle alcyon,kingfishers (Alcedinidae),common resident/winter visitor near water,high,Verified correct vs eBird/Clements 2024.
+megascops-kennicottii,Western Screech-Owl,Megascops kennicottii,owls (Strigidae),common resident,high,Correct; AOS uses hyphenated 'Screech-Owl'.
+melanerpes-formicivorus,Acorn Woodpecker,Melanerpes formicivorus,woodpeckers (Picidae),common resident in oak woodland,high,Verified correct.
+melanerpes-lewis,Lewis's Woodpecker,Melanerpes lewis,woodpeckers (Picidae),uncommon/local resident and winter visitor,high,Epithet often written 'lewisii'; eBird/Clements uses 'lewis'. Confirmed: Gray's name Picus lewis (1849); honors Meriwether Lewis.
+meleagris-gallopavo,Wild Turkey,Meleagris gallopavo,"pheasants, grouse, and allies (Phasianidae)",common introduced resident,high,Verified correct.
+melospiza-georgiana,Swamp Sparrow,Melospiza georgiana,New World sparrows (Passerellidae),rare/uncommon winter visitor,high,Verified correct.
+melospiza-lincolnii,Lincoln's Sparrow,Melospiza lincolnii,New World sparrows (Passerellidae),common winter visitor; breeds in mountains,high,Verified correct.
+melospiza-melodia,Song Sparrow,Melospiza melodia,New World sparrows (Passerellidae),common resident,high,Verified correct.
+melozone-aberti,Abert's Towhee,Melozone aberti,New World sparrows (Passerellidae),common resident in SE California deserts,high,Formerly Pipilo aberti. Verified correct.
+melozone-crissalis,California Towhee,Melozone crissalis,New World sparrows (Passerellidae),common resident,high,Formerly Pipilo crissalis. Split from Canyon Towhee (AOU 1989); occurs west of Colorado River.
+melozone-fusca,Canyon Towhee,Melozone fusca,New World sparrows (Passerellidae),not expected in California,high,"Range is interior Southwest/Mexico (east of Colorado River); California birds are California Towhee (M. crissalis), split from this species (AOU 1989)."
+mergus-merganser,Common Merganser,Mergus merganser,"ducks, geese, and waterfowl (Anatidae)",common resident/winter visitor on water,high,Verified correct (Old World name 'Goosander' = same species).
+mimus-polyglottos,Northern Mockingbird,Mimus polyglottos,mockingbirds and thrashers (Mimidae),common resident,high,Verified correct.
+mniotilta-varia,Black-and-white Warbler,Mniotilta varia,New World warblers (Parulidae),rare but regular migrant/winter visitor,high,Verified correct.
+molothrus-ater,Brown-headed Cowbird,Molothrus ater,New World blackbirds (Icteridae),"common summer breeder, some winter",high,Verified correct.
+myadestes-townsendi,Townsend's Solitaire,Myadestes townsendi,thrushes (Turdidae),uncommon winter visitor; breeds in high mountains,high,Verified correct; family Turdidae confirmed.
+myiarchus-cinerascens,Ash-throated Flycatcher,Myiarchus cinerascens,tyrant flycatchers (Tyrannidae),common summer breeder,high,Verified correct.
+nucifraga-columbiana,Clark's Nutcracker,Nucifraga columbiana,crows and jays (Corvidae),resident in high mountains; rare in lowland backyards,high,Verified correct.
+numenius-americanus,Long-billed Curlew,Numenius americanus,sandpipers (Scolopacidae),common winter visitor and migrant (coast/wetlands),high,Verified correct.
+nycticorax-nycticorax,Black-crowned Night Heron,Nycticorax nycticorax,herons (Ardeidae),common resident near water,high,"Common name verified. Note as written is slightly imprecise: AOS/eBird-Clements retained the hyphenated 'Black-crowned Night-Heron' through the 2023 update; the unhyphenated 'Black-crowned Night Heron' became official with the 2024 update. The list's spelling ('Night Heron', no hyphen) matches Clements 2024."
+oreothlypis-ruficapilla,Nashville Warbler,Leiothlypis ruficapilla,New World warblers (Parulidae),common spring/fall migrant; local summer breeder in north,high,"Common name correct. Stem 'oreothlypis-ruficapilla' preserved as the filename key, but current accepted binomial is Leiothlypis ruficapilla (formerly Oreothlypis/Vermivora); corrected the 'scientific' field accordingly to match Clements 2024."
+pandion-haliaetus,Osprey,Pandion haliaetus,ospreys (Pandionidae),resident/breeder near water; widespread migrant,high,"Verified correct. Clements full name 'Osprey'; some lists use 'Western Osprey' (P. h. carolinensis is the North American subspecies), but the species-level English name remains 'Osprey'."
+passer-domesticus,House Sparrow,Passer domesticus,Old World sparrows (Passeridae),common resident (introduced),high,Verified correct.
+passerculus-sandwichensis,Savannah Sparrow,Passerculus sandwichensis,New World sparrows (Passerellidae),common resident/winter visitor in open habitats,high,"Verified correct. Spelling 'Savannah Sparrow' (named for Savannah, Georgia) is the standard English name."
+passerella-iliaca,Fox Sparrow,Passerella iliaca,New World sparrows (Passerellidae),common winter visitor,high,"Verified correct. Still treated as a single species 'Fox Sparrow' in Clements 2024 (the 'Red/Sooty/Slate-colored/Thick-billed' forms remain subspecies groups, not split)."
+passerina-amoena,Lazuli Bunting,Passerina amoena,cardinals and allies (Cardinalidae),common summer breeder,high,Verified correct.
+passerina-cyanea,Indigo Bunting,Passerina cyanea,cardinals and allies (Cardinalidae),rare/local summer visitor; uncommon migrant,high,Verified correct.
+patagioenas-fasciata,Band-tailed Pigeon,Patagioenas fasciata,pigeons and doves (Columbidae),common resident in oak/conifer foothills; visits backyards,high,Verified correct; genus Patagioenas (formerly Columba) confirmed.
+pelecanus-erythrorhynchos,American White Pelican,Pelecanus erythrorhynchos,pelicans (Pelecanidae),common winter visitor; local breeder,high,Verified correct.
+pelecanus-occidentalis,Brown Pelican,Pelecanus occidentalis,pelicans (Pelecanidae),common coastal resident/post-breeding visitor,high,Verified correct.
+perisoreus-canadensis,Canada Jay,Perisoreus canadensis,crows and jays (Corvidae),resident in high northern mountains; not a lowland backyard bird,high,Verified correct. AOS restored 'Canada Jay' (from 'Gray Jay') in 2018.
+petrochelidon-pyrrhonota,Cliff Swallow,Petrochelidon pyrrhonota,swallows (Hirundinidae),common summer breeder,high,Common name 'Cliff Swallow' is correct for Clements/eBird (also called 'American Cliff Swallow' in IOC; AOS/Clements uses 'Cliff Swallow').
+phainopepla-nitens,Phainopepla,Phainopepla nitens,silky-flycatchers (Ptilogonatidae),uncommon resident/summer breeder in desert and foothill scrub,high,"Verified: Phainopepla nitens, monotypic genus, family Ptilogonatidae. Correct as given."
+phalacrocorax-auritus,Double-crested Cormorant,Nannopterum auritum,cormorants (Phalacrocoracidae),"common resident on lakes, rivers, and coast",high,"CORRECTED: The original note had the taxonomy backwards. eBird/Clements 2024 DOES use Nannopterum auritum (the genus move from Phalacrocorax was adopted, following the 2014 study; IOC adopted 2021, Clements/eBird reflects it in v2024), so scientific name changed from Phalacrocorax auritus to Nannopterum auritum. The stem 'phalacrocorax-auritus' uses the old genus and is kept unchanged as the filename key. Common name 'Double-crested Cormorant' is unchanged."
+phalaenoptilus-nuttallii,Common Poorwill,Phalaenoptilus nuttallii,nightjars (Caprimulgidae),summer breeder/uncommon resident in arid scrub and foothills,high,"Verified: Phalaenoptilus nuttallii, monotypic genus, family Caprimulgidae. Correct as given."
+phasianus-colchicus,Ring-necked Pheasant,Phasianus colchicus,pheasants and allies (Phasianidae),uncommon introduced resident in agricultural areas,high,Verified: introduced (non-native) species. Correct as given.
+pheucticus-melanocephalus,Black-headed Grosbeak,Pheucticus melanocephalus,cardinals and allies (Cardinalidae),common summer breeder,high,"Verified: Pheucticus melanocephalus, family Cardinalidae. Correct as given."
+pica-nuttalli,Yellow-billed Magpie,Pica nuttalli,crows and jays (Corvidae),common resident; California endemic (Central Valley and Coast Ranges),high,"Verified: Pica nuttalli (single 'l' in the species epithet, matching the stem), California endemic, family Corvidae. Correct as given."
+picoides-arcticus,Black-backed Woodpecker,Picoides arcticus,woodpeckers (Picidae),rare/uncommon resident in high-elevation burned conifer forest; not a backyard bird,high,Verified against eBird/Clements 2024: Picoides arcticus is retained in genus Picoides (unlike many former Picoides species moved to Dryobates). Correct as given.
+pinicola-enucleator,Pine Grosbeak,Pinicola enucleator,finches (Fringillidae),rare resident in high Sierra Nevada conifer forest; not expected in lowland backyards,high,"Verified: Pinicola enucleator, family Fringillidae (a true finch, not a cardinalid). Correct as given."
+pipilo-chlorurus,Green-tailed Towhee,Pipilo chlorurus,New World sparrows (Passerellidae),summer breeder in montane shrub; uncommon migrant/winter visitor in lowlands,high,"Verified: Pipilo chlorurus, family Passerellidae. Correct as given."
+pipilo-erythrophthalmus,Eastern Towhee,Pipilo erythrophthalmus,New World sparrows (Passerellidae),rare/vagrant; the resident western counterpart is the Spotted Towhee,high,"Verified: Pipilo erythrophthalmus = Eastern Towhee in eBird/Clements 2024. Common name correctly derived from the binomial as given. The note's caveat (likely a Spotted Towhee, P. maculatus, if a CA backyard bird was intended) is reasonable but does not change the name derived from the binomial."
+pipilo-maculatus,Spotted Towhee,Pipilo maculatus,New World sparrows (Passerellidae),common resident in brush and chaparral,high,"Verified: Pipilo maculatus = Spotted Towhee, family Passerellidae. Correct as given."
+piranga-ludoviciana,Western Tanager,Piranga ludoviciana,cardinals and allies (Cardinalidae),common summer breeder and migrant,high,Verified: Piranga is placed in Cardinalidae (not Thraupidae) under current AOS/Clements taxonomy; family correct as given.
+piranga-rubra,Summer Tanager,Piranga rubra,cardinals and allies (Cardinalidae),uncommon/local summer breeder along desert rivers; rare elsewhere,high,"Verified: Piranga rubra = Summer Tanager, family Cardinalidae (Piranga moved out of Thraupidae). Correct as given."
+plegadis-chihi,White-faced Ibis,Plegadis chihi,ibises and spoonbills (Threskiornithidae),common resident/breeder in wetlands and flooded fields,high,"Verified: Plegadis chihi = White-faced Ibis, family Threskiornithidae. Correct as given."
+podiceps-nigricollis,Eared Grebe,Podiceps nigricollis,grebes (Podicipedidae),common winter visitor and migrant; local breeder,high,Verified: eBird/Clements 2024 + AOS retain the North American English name 'Eared Grebe' for Podiceps nigricollis (the worldwide 'Black-necked Grebe' name is not used by AOS/Clements). Correct as given.
+podilymbus-podiceps,Pied-billed Grebe,Podilymbus podiceps,grebes (Podicipedidae),common resident on ponds and lakes,high,"Verified: Podilymbus podiceps = Pied-billed Grebe, family Podicipedidae. Correct as given."
+poecile-gambeli,Mountain Chickadee,Poecile gambeli,tits and chickadees (Paridae),common resident in mountains/conifer forest; occasional lowland winter visitor,high,Verified correct against eBird/Clements 2024.
+poecile-rufescens,Chestnut-backed Chickadee,Poecile rufescens,tits and chickadees (Paridae),common resident in coastal/humid forest,high,Verified correct against eBird/Clements 2024.
+polioptila-caerulea,Blue-gray Gnatcatcher,Polioptila caerulea,gnatcatchers (Polioptilidae),"common summer breeder, partly resident in south",high,Verified correct against eBird/Clements 2024.
+pooecetes-gramineus,Vesper Sparrow,Pooecetes gramineus,New World sparrows (Passerellidae),uncommon winter visitor and migrant; local summer breeder in NE,high,Verified correct against eBird/Clements 2024.
+progne-subis,Purple Martin,Progne subis,swallows (Hirundinidae),uncommon/local summer breeder,high,Verified correct against eBird/Clements 2024.
+psaltriparus-minimus,Bushtit,Psaltriparus minimus,bushtits (Aegithalidae),common resident,high,"eBird/Clements 2024 species-level English name remains 'Bushtit' (Psaltriparus minimus); no 2024 split. Some references (Wikipedia, BirdLife) use 'American Bushtit', but that is not the eBird/Clements name. Kept as given."
+quiscalus-mexicanus,Great-tailed Grackle,Quiscalus mexicanus,New World blackbirds (Icteridae),"common resident, expanding",high,Correct. eBird/Clements labels family 'Troupials and Allies (Icteridae)'; 'New World blackbirds' is an acceptable descriptor.
+recurvirostra-americana,American Avocet,Recurvirostra americana,stilts and avocets (Recurvirostridae),common resident/migrant at wetlands and shorelines,high,Verified correct against eBird/Clements 2024.
+regulus-calendula,Ruby-crowned Kinglet,Corthylio calendula,kinglets (Regulidae),common winter visitor,high,"CORRECTED scientific name: eBird/Clements 2024 and AOS place this species in Corthylio (Corthylio calendula), not Regulus (moved 2021). Common name 'Ruby-crowned Kinglet' and family Regulidae are unchanged. Stem 'regulus-calendula' reflects the older genus and is kept as the filename key."
+regulus-satrapa,Golden-crowned Kinglet,Regulus satrapa,kinglets (Regulidae),common winter visitor; resident in mountain conifers,high,Verified correct against eBird/Clements 2024. Golden-crowned Kinglet remains in genus Regulus (unlike Ruby-crowned).
+riparia-riparia,Bank Swallow,Riparia riparia,swallows (Hirundinidae),uncommon/local summer breeder and migrant; CA state-threatened,high,Correct for AOS/eBird (North American) usage; 'Sand Martin' is the British (IOC) name for the same species. CA state-threatened status accurate.
+rynchops-niger,Black Skimmer,Rynchops niger,"gulls, terns, and skimmers (Laridae)",uncommon/local resident and post-breeding visitor on south coast,high,Verified correct against eBird/Clements 2024. Genus spelling 'Rynchops' (not 'Rhynchops') is the valid form.
+salpinctes-obsoletus,Rock Wren,Salpinctes obsoletus,wrens (Troglodytidae),fairly common resident in rocky habitat,high,Verified correct against eBird/Clements 2024.
+sayornis-nigricans,Black Phoebe,Sayornis nigricans,tyrant flycatchers (Tyrannidae),common resident,high,Verified correct against eBird/Clements 2024.
+sayornis-saya,Say's Phoebe,Sayornis saya,tyrant flycatchers (Tyrannidae),common resident/winter visitor; local summer breeder,high,Verified correct against eBird/Clements 2024.
+selasphorus-platycercus,Broad-tailed Hummingbird,Selasphorus platycercus,hummingbirds (Trochilidae),uncommon/local summer breeder in eastern mountains; scarce migrant elsewhere,high,Verified correct against eBird/Clements 2024; species remains in genus Selasphorus.
+selasphorus-rufus,Rufous Hummingbird,Selasphorus rufus,hummingbirds (Trochilidae),common migrant (spring/fall),high,Verified correct.
+selasphorus-sasin,Allen's Hummingbird,Selasphorus sasin,hummingbirds (Trochilidae),common breeder along the coast,high,Verified correct.
+setophaga-coronata,Yellow-rumped Warbler,Setophaga coronata,New World warblers (Parulidae),common winter visitor,high,Formerly Dendroica coronata; includes Audubon's and Myrtle forms. Verified correct.
+setophaga-magnolia,Magnolia Warbler,Setophaga magnolia,New World warblers (Parulidae),rare/vagrant,high,Formerly Dendroica magnolia. Verified correct.
+setophaga-nigrescens,Black-throated Gray Warbler,Setophaga nigrescens,New World warblers (Parulidae),summer breeder / migrant,high,Formerly Dendroica nigrescens. AOS/eBird spelling is 'Gray' (not 'Grey'). Verified correct.
+setophaga-occidentalis,Hermit Warbler,Setophaga occidentalis,New World warblers (Parulidae),summer breeder (montane) / migrant,high,Formerly Dendroica occidentalis. Verified correct.
+setophaga-palmarum,Palm Warbler,Setophaga palmarum,New World warblers (Parulidae),uncommon fall migrant / rare winter visitor,high,Formerly Dendroica palmarum. Verified correct.
+setophaga-petechia,Yellow Warbler,Setophaga petechia,New World warblers (Parulidae),common summer breeder / migrant,high,Formerly Dendroica petechia. Verified correct.
+setophaga-ruticilla,American Redstart,Setophaga ruticilla,New World warblers (Parulidae),uncommon migrant / rare breeder,high,Verified correct.
+setophaga-townsendi,Townsend's Warbler,Setophaga townsendi,New World warblers (Parulidae),common winter visitor / migrant,high,Formerly Dendroica townsendi. Verified correct.
+sialia-currucoides,Mountain Bluebird,Sialia currucoides,thrushes (Turdidae),winter visitor / montane breeder,high,Verified correct.
+sialia-mexicana,Western Bluebird,Sialia mexicana,thrushes (Turdidae),common resident,high,Verified correct.
+sitta-canadensis,Red-breasted Nuthatch,Sitta canadensis,nuthatches (Sittidae),resident / irruptive winter visitor,high,Verified correct.
+sitta-carolinensis,White-breasted Nuthatch,Sitta carolinensis,nuthatches (Sittidae),common resident,high,Verified correct.
+sitta-pygmaea,Pygmy Nuthatch,Sitta pygmaea,nuthatches (Sittidae),common resident (pine forests),high,Verified correct.
+spatula-clypeata,Northern Shoveler,Spatula clypeata,"ducks, geese, and waterfowl (Anatidae)",common winter visitor,high,Formerly Anas clypeata; moved to Spatula. Verified correct.
+spatula-discors,Blue-winged Teal,Spatula discors,"ducks, geese, and waterfowl (Anatidae)",uncommon migrant and winter visitor,high,"Correct. Spatula discors, formerly Anas discors. Common name and genus current per Clements 2024."
+sphyrapicus-ruber,Red-breasted Sapsucker,Sphyrapicus ruber,woodpeckers (Picidae),resident/winter visitor,high,Correct.
+sphyrapicus-thyroideus,Williamson's Sapsucker,Sphyrapicus thyroideus,woodpeckers (Picidae),uncommon resident/migrant in montane areas,high,Correct.
+spinus-lawrencei,Lawrence's Goldfinch,Spinus lawrencei,finches (Fringillidae),uncommon resident/breeder,high,Correct. Sometimes placed in Carduelis; Spinus is current.
+spinus-pinus,Pine Siskin,Spinus pinus,finches (Fringillidae),irruptive winter visitor; some resident,high,Correct.
+spinus-psaltria,Lesser Goldfinch,Spinus psaltria,finches (Fringillidae),common resident,high,Correct.
+spinus-tristis,American Goldfinch,Spinus tristis,finches (Fringillidae),common resident,high,Correct.
+spizella-atrogularis,Black-chinned Sparrow,Spizella atrogularis,New World sparrows (Passerellidae),uncommon summer breeder in chaparral,high,Correct.
+spizella-breweri,Brewer's Sparrow,Spizella breweri,New World sparrows (Passerellidae),migrant and local breeder; winter visitor in deserts,high,Correct.
+spizella-passerina,Chipping Sparrow,Spizella passerina,New World sparrows (Passerellidae),common breeder and migrant; winter visitor,high,Correct.
+spizelloides-arborea,American Tree Sparrow,Spizelloides arborea,New World sparrows (Passerellidae),rare/vagrant in winter,high,Correct. Formerly Spizella arborea; now monotypic Spizelloides arborea.
+stelgidopteryx-serripennis,Northern Rough-winged Swallow,Stelgidopteryx serripennis,swallows (Hirundinidae),common summer breeder and migrant,high,Correct.
+sterna-forsteri,Forster's Tern,Sterna forsteri,"gulls, terns, and skimmers (Laridae)",common resident/breeder along coast and wetlands,high,"Correct. Some authorities use Sternula/Thalasseus for other terns, but Sterna forsteri is current for Forster's Tern."
+sterna-hirundo,Common Tern,Sterna hirundo,"gulls, terns, and skimmers (Laridae)",uncommon migrant (mainly fall),high,Correct.
+streptopelia-decaocto,Eurasian Collared-Dove,Streptopelia decaocto,pigeons and doves (Columbidae),common introduced resident,high,Correct.
+strix-occidentalis,Spotted Owl,Strix occidentalis,owls (Strigidae),uncommon resident in mature forests,high,"Correct. California Spotted Owl is the relevant subspecies (S. o. occidentalis), but the species-level common name is Spotted Owl."
+sturnella-neglecta,Western Meadowlark,Sturnella neglecta,New World blackbirds (Icteridae),common resident,high,Verified. Binomial and common name match eBird/Clements 2024.
+sturnus-vulgaris,European Starling,Sturnus vulgaris,starlings (Sturnidae),common resident (introduced),high,Verified. Correct as given.
+tachycineta-bicolor,Tree Swallow,Tachycineta bicolor,swallows (Hirundinidae),common breeder and migrant,high,Verified. Correct as given.
+tachycineta-thalassina,Violet-green Swallow,Tachycineta thalassina,swallows (Hirundinidae),common summer breeder,high,Verified. Correct as given.
+thalasseus-elegans,Elegant Tern,Thalasseus elegans,"gulls, terns, and skimmers (Laridae)",common summer/post-breeding coastal visitor,high,Verified. Genus Thalasseus (formerly Sterna) is current. Coastal species; unlikely in a backyard unless near the coast.
+thryomanes-bewickii,Bewick's Wren,Thryomanes bewickii,wrens (Troglodytidae),common resident,high,Verified. Correct as given.
+toxostoma-redivivum,California Thrasher,Toxostoma redivivum,mockingbirds and thrashers (Mimidae),common resident (California near-endemic),high,Verified. Correct as given.
+tringa-semipalmata,Willet,Tringa semipalmata,sandpipers (Scolopacidae),common coastal/wetland migrant and winter visitor,high,"Verified. Formerly Catoptrophorus semipalmatus; now placed in Tringa, consistent with current taxonomy."
+troglodytes-aedon,House Wren,Troglodytes aedon,wrens (Troglodytidae),common summer breeder,high,"Verified. Note: in 2024 AOS/Clements split the House Wren complex; North American populations retain the name House Wren under Troglodytes aedon, so the entry is correct."
+troglodytes-pacificus,Pacific Wren,Troglodytes pacificus,wrens (Troglodytidae),uncommon resident/winter visitor,high,Verified. Split from Winter Wren (T. troglodytes/T. hiemalis) complex; binomial and name are current.
+turdus-migratorius,American Robin,Turdus migratorius,thrushes (Turdidae),common resident and winter visitor,high,Verified. Correct as given.
+tyrannus-verticalis,Western Kingbird,Tyrannus verticalis,tyrant flycatchers (Tyrannidae),common summer breeder,high,Verified. Correct as given.
+tyrannus-vociferans,Cassin's Kingbird,Tyrannus vociferans,tyrant flycatchers (Tyrannidae),locally common resident/summer breeder (mainly Southern California),high,Verified. Correct as given.
+tyto-alba,Barn Owl,Tyto alba,barn-owls (Tytonidae),common resident,high,"Verified. eBird/Clements uses the English name 'Barn Owl' for the New World species under Tyto alba (sometimes written 'American Barn Owl' after the 2023+ Old/New World split discussion, but Tyto alba in North America remains 'Barn Owl'). Entry is correct."
+urile-penicillatus,Brandt's Cormorant,Urile penicillatus,cormorants (Phalacrocoracidae),common coastal resident,high,"Verified. Formerly Phalacrocorax penicillatus; moved to genus Urile (AOS 2021), adopted by eBird/Clements. Coastal species, not a backyard bird."
+vireo-bellii,Bell's Vireo,Vireo bellii,vireos (Vireonidae),rare/local summer breeder (Least Bell's Vireo subspecies endangered),high,Verified. Correct as given; Least Bell's Vireo (V. b. pusillus) is the federally endangered subspecies.
+vireo-cassinii,Cassin's Vireo,Vireo cassinii,vireos (Vireonidae),common migrant and summer breeder; some winter on coast,high,Verified correct.
+vireo-gilvus,Warbling Vireo,Vireo gilvus,vireos (Vireonidae),common summer breeder and migrant,high,Verified correct.
+vireo-huttoni,Hutton's Vireo,Vireo huttoni,vireos (Vireonidae),common resident,high,Verified correct.
+xanthocephalus-xanthocephalus,Yellow-headed Blackbird,Xanthocephalus xanthocephalus,New World blackbirds (Icteridae),local breeder and migrant; uncommon in winter,high,Verified correct.
+zenaida-asiatica,White-winged Dove,Zenaida asiatica,pigeons and doves (Columbidae),"uncommon resident/breeder in southeast deserts; spreading, rare elsewhere",high,Verified correct.
+zenaida-macroura,Mourning Dove,Zenaida macroura,pigeons and doves (Columbidae),common resident,high,Verified correct.
+zonotrichia-atricapilla,Golden-crowned Sparrow,Zonotrichia atricapilla,New World sparrows (Passerellidae),common winter visitor,high,Verified correct. Genus Zonotrichia placed in Passerellidae per AOS/Clements.
+zonotrichia-leucophrys,White-crowned Sparrow,Zonotrichia leucophrys,New World sparrows (Passerellidae),common winter visitor; breeds in mountains and along north coast,high,Verified correct.
+zonotrichia-querula,Harris's Sparrow,Zonotrichia querula,New World sparrows (Passerellidae),rare/vagrant winter visitor,high,Verified correct.
