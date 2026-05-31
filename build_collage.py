@@ -25,12 +25,17 @@ Design notes (why this looks better than a naive `montage`):
   * A few source illustrations have a baked-in speckle/halo from a rough cutout;
     list their stems in NOISY to clean them (threshold + morphological open).
 
+Birds display alphabetically by common name (sorted at build time), so lines in
+birds.txt can be added in any order.
+
 Usage:
-    python3 build_collage.py        # builds all four outputs
+    python3 build_collage.py             # both designs (all four outputs)
+    python3 build_collage.py --design 1  # just the single-sheet collage
+    python3 build_collage.py --design 2  # just the tape-up pair (+ preview)
 
 Requires ImageMagick 7 (`magick`).
 """
-import os, sys, subprocess, math
+import os, sys, subprocess, math, argparse
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 SRC = os.path.join(HERE, "illustrations")
@@ -52,7 +57,7 @@ NOISY = {"meleagris-gallopavo"}
 # --- Page geometry: US Letter landscape at 300 dpi -------------------------
 PAGE_W, PAGE_H = 3300, 2550      # 11 x 8.5 inches
 OUTER = 50                       # paper margin inside the canvas
-HEADER_H = 280                   # title band height on titled sheets
+HEADER_H = 340                   # title band height on titled sheets
 CELL_GAP = 16                    # transparent margin around each bird cell
 LABEL_GAP = 6                    # gap between a bird and its label
 FILL = 0.60                      # bird content area as a fraction of its box
@@ -63,8 +68,8 @@ LABEL_FONT = "Baskerville-SemiBold"
 LABEL_COLOR = "#222018"
 TITLE_FONT = "Baskerville"
 TITLE_COLOR = "#2a2620"
-TITLE_PT = 96
-SUBTITLE_PT = 36
+TITLE_PT = 118
+SUBTITLE_PT = 46
 
 
 def run(args):
@@ -178,28 +183,41 @@ def build_layout(birds, cols, rows, show_title, pointsize, label_h, out,
     return target_area
 
 
-def main():
-    birds = read_manifest()
-
-    # Design 1: every bird on one landscape sheet.
-    cols1 = 6
-    build_layout(birds, cols1, math.ceil(len(birds) / cols1),
+def build_one_page(birds):
+    """Design 1: every bird on one landscape sheet."""
+    cols = 6
+    build_layout(birds, cols, math.ceil(len(birds) / cols),
                  show_title=True, pointsize=40, label_h=104, out=OUT)
 
-    # Design 2: two landscape sheets to tape top-to-bottom, half the birds each.
+
+def build_two_page(birds):
+    """Design 2: two landscape sheets to tape top-to-bottom, half the birds each."""
     half = (len(birds) + 1) // 2
     top, bottom = birds[:half], birds[half:]
-    cols2 = 5
-    ta = build_layout(top, cols2, math.ceil(len(top) / cols2),
+    cols = 5
+    # Page 1 sets the bird scale; page 2 reuses it so the taped seam is seamless.
+    ta = build_layout(top, cols, math.ceil(len(top) / cols),
                       show_title=True, pointsize=54, label_h=150, out=OUT_P1)
-    build_layout(bottom, cols2, math.ceil(len(bottom) / cols2),
+    build_layout(bottom, cols, math.ceil(len(bottom) / cols),
                  show_title=False, pointsize=54, label_h=150, out=OUT_P2,
                  target_area=ta)
-
     # Stacked preview of the taped-up poster (for review, not printing).
     run([MAGICK, "-background", BG, OUT_P1, OUT_P2, "-append", OUT_2UP])
     print(f"wrote {OUT_2UP} (stacked preview of the two-sheet poster)")
 
 
+def main(design):
+    birds = read_manifest()
+    birds.sort(key=lambda nb: nb[0].lower())   # display alphabetically by common name
+    if design in ("all", "1"):
+        build_one_page(birds)
+    if design in ("all", "2"):
+        build_two_page(birds)
+
+
 if __name__ == "__main__":
-    main()
+    ap = argparse.ArgumentParser(description="Build the Calvert Ct bird collages.")
+    ap.add_argument("--design", choices=["all", "1", "2"], default="all",
+                    help="which to build: 1 = single sheet, 2 = tape-up pair, "
+                         "all = both (default)")
+    main(ap.parse_args().design)

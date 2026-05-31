@@ -59,28 +59,51 @@ name, sometimes vague. Do this:
    pose exists (`<stem>-2.png`), that's fine — the build falls back to it.
 
 3. **Add one line to `birds.txt`:** `Common Name | scientific-stem`. Use the
-   exact common name from `library-index.csv`. Append it at the end unless Ben
-   wants a particular order (the collage reads top-to-bottom, left-to-right, 6
-   per row).
+   exact common name from `library-index.csv`. Order in the file doesn't matter:
+   the build sorts every bird alphabetically by common name. Appending at the
+   end is fine.
 
 4. **Rebuild and look at it:**
    ```bash
    python3 build_collage.py
    ```
-   Open `birds-of-calvert-ct.png` and check the new bird: right species, sane
-   size, label not overrunning. If it shows a faint rectangular halo or dotted
+   Open the generated sheets and check the new bird: right species, sane size,
+   label not overrunning. If it shows a faint rectangular halo or dotted
    background (a rough cutout in the source art), add its stem to the `NOISY`
    set near the top of `build_collage.py` and rebuild — that triggers the
    threshold + morphological-open cleanup that fixes the turkey.
 
 5. **Commit and push:**
    ```bash
-   git add birds.txt birds-of-calvert-ct.png && git commit -m "Add <Common Name>" && git push
+   git add birds.txt birds-of-calvert-ct*.png && git commit -m "Add <Common Name>" && git push
    ```
 
 Adding several birds at once is the same loop — edit all the `birds.txt` lines,
 build once, commit once. A few birds is a quick grep-and-edit; don't reach for a
 multi-agent workflow for it.
+
+## Building the collages
+
+`python3 build_collage.py` rebuilds everything. Birds are sorted alphabetically
+by common name, then laid out two ways:
+
+- **Design 1 — one sheet (`--design 1`).** All birds on a single US Letter
+  landscape page, 6 per row, title at the top. Output: `birds-of-calvert-ct.png`.
+- **Design 2 — tape-up pair (`--design 2`).** Two landscape pages you print and
+  tape top-to-bottom; half the birds each, 5 per row, so they're noticeably
+  larger. Page 1 carries the title; page 2 omits it and reuses page 1's bird
+  scale so the seam is invisible. Outputs: `birds-of-calvert-ct-page1.png`,
+  `birds-of-calvert-ct-page2.png`, plus `birds-of-calvert-ct-2page.png` (the two
+  stacked, for previewing the taped result — not for printing).
+
+```bash
+python3 build_collage.py             # both designs (default)
+python3 build_collage.py --design 1  # just the single sheet
+python3 build_collage.py --design 2  # just the tape-up pair
+```
+
+All sheets are 3300x2550 px (11x8.5in @ 300 dpi) and sized to the paper's
+aspect, so "fit to page" prints them edge to edge.
 
 ## Rebuilding `library-index.csv`
 
