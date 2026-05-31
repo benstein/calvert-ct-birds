@@ -7,12 +7,21 @@ adding birds or changing the build.
 ## What's here
 
 ```
-birds.txt                 The observed list, in display order: "Common Name | scientific-stem"
-build_collage.py          Builds birds-of-calvert-ct.png from birds.txt + illustrations/
-library-index.csv         Lookup: scientific-stem -> common name, family, CA status (all 249 available species)
-illustrations/            The full source library, 450 PNGs (~249 species, most with a -2 "flying" pose)
-birds-of-calvert-ct.png   The generated collage (committed so the latest is always visible)
+birds.txt                       The observed list, in display order: "Common Name | scientific-stem"
+build_collage.py                Builds the collages from birds.txt + illustrations/
+library-index.csv               Lookup: scientific-stem -> common name, family, CA status (all 249 available species)
+illustrations/                  The full source library, 450 PNGs (~249 species, most with a -2 "flying" pose)
+birds-of-calvert-ct.png         Design 1: every bird on one US Letter landscape sheet
+birds-of-calvert-ct-page1.png   Design 2, top sheet: title + first half, scaled larger
+birds-of-calvert-ct-page2.png   Design 2, bottom sheet: second half, no title
+birds-of-calvert-ct-2page.png   Page 1 stacked over page 2 — a preview of the taped-up poster
 ```
+
+All generated sheets are US Letter landscape (8.5x11) at 300 dpi (3300x2550 px),
+so they scale to fill the page when printed. Design 2 is two sheets you print
+and tape together top-to-bottom; with half the birds each they're larger and
+more legible. `python3 build_collage.py` rebuilds all four in one pass. The PNGs
+are committed so the latest is always visible.
 
 `illustrations/` is the master art library copied from `~/Work/AvianVisitors/avian/assets/illustrations`.
 It holds far more species than we've observed — that's deliberate, so any newly

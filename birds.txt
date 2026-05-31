@@ -28,3 +28,9 @@ Great Horned Owl | bubo-virginianus
 Cooper's Hawk | accipiter-cooperii
 Canada Goose | branta-canadensis
 Red-shouldered Hawk | buteo-lineatus
+Spotted Towhee | pipilo-maculatus
+Song Sparrow | melospiza-melodia
+Bewick's Wren | thryomanes-bewickii
+Bushtit | psaltriparus-minimus
+Western Flycatcher | empidonax-difficilis
+Northern Mockingbird | mimus-polyglottos
